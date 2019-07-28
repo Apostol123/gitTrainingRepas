@@ -8,3 +8,6 @@
 # ej4,c1 c2 c3
 # ej5,c1
 # ej5,c2
+# ej5 c1 featureGFT
+# ej5 c2 featureGFT
+
